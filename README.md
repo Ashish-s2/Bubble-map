@@ -1,5 +1,5 @@
 # Bubble-map
-To visualize the relationship and  concentration of stocks
+To visualize  the relationship and  concentration of stocks
 where the bubble size represent the market cap
 <br>
 All the stock in the nifty fifty<br>
